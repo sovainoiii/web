@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="E:\CSharp\web1\web1\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="E:\CSharp\web1\web1\.editorconfig" />
+  </ItemGroup>
+
+</Project>

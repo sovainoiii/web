@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "8bL0SkM60S/9i6wsmZEuRWy7zGv+Eba3CtT+BCNhneA=",
+  "Source": "web1",
+  "BasePath": "_content/web1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "web1\\wwwroot",
+      "Source": "web1",
+      "ContentRoot": "E:\\CSharp\\web1\\web1\\wwwroot\\",
+      "BasePath": "_content/web1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
